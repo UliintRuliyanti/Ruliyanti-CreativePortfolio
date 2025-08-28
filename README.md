@@ -4,3 +4,5 @@ Welcome to my creative space. Here, I blend the power of words, visuals, and dig
 This certificate serves as evidence of my achievement in completing a copywriting training program through a reputable online learning platform.
 # VideoAds-Scripts-Certificates
 This certificate of Participation in the Webinar "How to Write Video Scripts for Ads"
+# certificate-of-completion-Increasing-Tiktok-Viewers
+This certificate of partisipation in the webinar "How to increase Tiktok Viewers through Strategic content Creation
