@@ -13,3 +13,6 @@ Explored emotional resonance in interface design and learned how to balance aest
 A creative class focused on crafting opinion-based writing and designing visual content as a strategic approach to social media optimization and digital storytelling
 # Certificate-participation-ai-data-science-webinar
 This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
+# Certificate-participation-video-ad-scriptwriting-webinar
+Certificate of Participation in the Webinar "How to Write Video Scripts for Ads" This webinar taught me that writing ad scripts is not just about words—it’s about weaving emotion, intuition, and strategy into a harmonious flow.
+Every sentence carries intention, every pause holds meaning, and every message must resonate.
