@@ -2,9 +2,6 @@
 Welcome to my creative space. Here, I blend the power of words, visuals, and digital strategy to craft content that is not only engaging-but deeply meaningful
 # copywriting-certificates
 This certificate serves as a testament to my dedication in enhancing persuasive communication through a structured online copywriting course
-# Certificates-video-ad-scriptwriting-webinar
-Certificate of Participation in the Webinar "How to Write Video Scripts for Ads" This webinar taught me that writing ad scripts is not just about words—it’s about weaving emotion, intuition, and strategy into a harmonious flow.  
-Every sentence carries intention, every pause holds meaning, and every message must resonate.
 # Certificate-participation-tiktok-viewers-webinar
 Certificate of participation in the webinar " Strategies to increase Tiktok Viewers" 
 # Certificate-leadership-development-webinar
