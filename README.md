@@ -8,3 +8,5 @@ Certificate of Participation in the Webinar "How to Write Video Scripts for Ads"
 Certificate of participation in the webinar " Strategies to increase Tiktok Viewers" 
 # certificate-of-Design-Web/app
 This guide walks through the journey from initial client brief to polished prototype—ensuring every design decision aligns with user needs and client expectations
+# certificate-of-AI-Data-Science
+This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
