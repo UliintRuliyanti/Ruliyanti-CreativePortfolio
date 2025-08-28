@@ -4,7 +4,7 @@ Welcome to my creative space. Here, I blend the power of words, visuals, and dig
 This certificate serves as a testament to my dedication in enhancing persuasive communication through a structured online copywriting course
 # VideoAds-Scripts-Certificates
 Certificate of Participation in the Webinar "How to Write Video Scripts for Ads"
-# certificate-of-completion-Increasing-Tiktok-Viewers
+# certificate-participation-tiktok-viewers-webinar
 Certificate of participation in the webinar " Strategies to increase Tiktok Viewers" 
 # certificate-of-AI-Data-Science
 This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
