@@ -5,4 +5,4 @@ This certificate serves as evidence of my achievement in completing a copywritin
 # VideoAds-Scripts-Certificates
 This certificate of Participation in the Webinar "How to Write Video Scripts for Ads"
 # certificate-of-completion-Increasing-Tiktok-Viewers
-This certificate of partisipation in the webinar "How to increase Tiktok Viewers through Strategic content Creation
+This certificate of partisipation in the webinar " Strategies to increase Tiktok Viewers" through an Online Learning Platform
