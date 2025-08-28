@@ -9,7 +9,7 @@ This certificate reflects my active participation in a Leadership Development we
 # Certificate-participation-uiux-webinar
 Participated in a collaborative UI/UX design webinar focused on intuitive user experience, visual harmony, and human-centered design principles.  
 Explored emotional resonance in interface design and learned how to balance aesthetics with usability.
-# Certificate-writing-content-design-class
+# Certificate-content-writing-design-class
 A creative class focused on crafting opinion-based writing and designing visual content as a strategic approach to social media optimization and digital storytelling
 # Certificate-participation-ai-data-science-webinar
 This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
