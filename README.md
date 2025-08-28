@@ -8,7 +8,7 @@ Certificate of Participation in the Webinar "How to Write Video Scripts for Ads"
 Certificate of participation in the webinar " Strategies to increase Tiktok Viewers" 
 # certificate-of-AI-Data-Science
 This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
-# Certificate-leaderhip-development-webinar
+# Certificate-leadership-development-webinar
 This certificate reflects my active participation in a Leadership Development webinar, where I explored strategic leadership principles, authentic communication, and personal growth
 # Certificate-of-Participation-in-opinion-Writing-and-Content-Design-Class
 A creative class focused on crafting opinion-based writing and designing visual content as a strategic approach to social media optimization and digital storytelling
