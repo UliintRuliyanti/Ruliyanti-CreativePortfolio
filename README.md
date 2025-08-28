@@ -12,3 +12,5 @@ This guide walks through the journey from initial client brief to polished proto
 This certificate reflects my active engagement in a webinar exploring the synergy between Artificial Intelligence and Data Science. Basic coding technique were applied using Google Colab during the webinar session
 # certificate-Webinar-Leaderhip-Development
 This certificate reflects my active participation in a Leadership Development webinar, where I explored strategic leadership principles, authentic communication, and personal growth
+# Certificate-of-Participation-in-opinion-Writing-and-Content-design-Class
+A creative class focused on crafting opinion-based writing and designing visual content as a strategic approach to social media optimization and digital storytelling
