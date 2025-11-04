@@ -1,6 +1,5 @@
 #Ruliyanti-Creative Communicator & Intuitive Storyteller
 Welcome to my creative space. Here, I blend the power of words, visuals, and digital strategy to craft content that is not only engaging-but deeply meaningful
-# Portfolio-dummy-project-copywring-ruliyanti
 # Copywriting-class-certificate
 This certificate serves as a testament to my dedication in enhancing persuasive communication through a structured online copywriting course
 # Certificate-participation-tiktok-viewers-webinar
